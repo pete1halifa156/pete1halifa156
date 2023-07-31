@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pete1halifa156
+- 👀 I’m interested in Web development. I’m currently learning HTML, CSS, and JavaScript.
+- 🌱 Driven to create responsive, intuitive web designs.
